@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KimmieX
-- 👀 I’m interested in Pentration testing
+- 👀 I’m interested in full stack development
 - 🌱 I’m currently learning IT
 - 📫 How to reach me: hatsukimberly5@gmail.com
 - ⚡ Fun fact: Determination is key😃
